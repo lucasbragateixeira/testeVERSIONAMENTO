@@ -149,3 +149,12 @@ h1{
     #direita button:hover{
         background-color:#ff861caf;
     }
+    input{
+        width: 300px;
+        height: 40px;
+        background-color:white;
+        border: 0px;
+        border-radius: 5px;
+        Display: grid;
+        place-items: center;
+        margin: 35px auto;
